@@ -1,0 +1,34 @@
+_repo: The-Lost-Fruits-of-Waterloo_51865
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bassett, John Spencer
+    alias: Bassett, J. S. (John Spencer)
+    birthdate: 1867
+    deathdate: 1928
+    gutenberg_agent_id: '46581'
+    url: http://www.gutenberg.org/2009/agents/46581
+description: ''
+gutenberg_issued: '2016-04-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51865'
+  lccn: '18009436'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Peace'
+- !lcc 'D501'
+- !lcsh 'World War, 1914-1918'
+- !lcsh 'International cooperation'
+- GITenberg
+tableOfContents: The question of permanent peace -- Early advocates of universal peace
+  -- Problems of the Napoleonic wars -- Europe under the concert of the powers --
+  The later phases of the concert of Europe -- The Balkan states -- German ideals
+  and organization -- The failure of the old European system -- If the submarines
+  fail -- Obstacles to an enduring peace -- Arguments for a federation of the states
+  -- A federation of the nations.
+title: The Lost Fruits of Waterloo
+url: http://www.gutenberg.org/ebooks/51865
